@@ -1,0 +1,7 @@
+C:\Users\jssil\source\repos\ValidaDocumentos\ValidaDocumentos\bin\Debug\ValidaDocumentos.exe.config
+C:\Users\jssil\source\repos\ValidaDocumentos\ValidaDocumentos\bin\Debug\ValidaDocumentos.exe
+C:\Users\jssil\source\repos\ValidaDocumentos\ValidaDocumentos\bin\Debug\ValidaDocumentos.pdb
+C:\Users\jssil\source\repos\ValidaDocumentos\ValidaDocumentos\obj\Debug\ValidaDocumentos.csprojAssemblyReference.cache
+C:\Users\jssil\source\repos\ValidaDocumentos\ValidaDocumentos\obj\Debug\ValidaDocumentos.csproj.CoreCompileInputs.cache
+C:\Users\jssil\source\repos\ValidaDocumentos\ValidaDocumentos\obj\Debug\ValidaDocumentos.exe
+C:\Users\jssil\source\repos\ValidaDocumentos\ValidaDocumentos\obj\Debug\ValidaDocumentos.pdb
